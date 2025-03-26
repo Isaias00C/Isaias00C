@@ -1,7 +1,7 @@
 <h2>#Oi, meu nome é Isaías Castro.</h2> 
 
-Sou um estudante de Engenharia da Computaçao no Iinstituto Federal do Ceará. <br/>
-alguns dos meu codigos relacionados com a [graduação](https://github.com/Isaias00C/Graduacao) estao no meu repositório para esse fim
+Sou um estudante de Engenharia da Computaçao no Instituto Federal do Ceará. <br/>
+alguns dos meu codigos relacionados com a [graduação](https://github.com/Isaias00C/Graduacao) estao no meu repositório para esse fim. Além disso há um repositório separado para o [projeto final](https://github.com/Isaias00C/Projeto-final-ip) da cadeira de introdução de programação
 
 Além disso estou priorizando lógica de programaçao com sites de problemas como: <br/>
 
