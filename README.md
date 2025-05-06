@@ -1,19 +1,27 @@
-<h2>#Oi, meu nome é Isaías Castro.</h2> 
+# Olá, sou Isaías Castro!
 
 Sou um estudante de Engenharia da Computaçao no Instituto Federal do Ceará. <br/>
 alguns dos meu codigos relacionados com a [graduação](https://github.com/Isaias00C/Graduacao) estao no meu repositório para esse fim. Além disso há um repositório separado para o [projeto final](https://github.com/Isaias00C/Projeto-final-ip) da cadeira de introdução de programação
 
 Além disso estou priorizando lógica de programaçao com sites de problemas como: <br/>
 
-   -> [leetcode](https://leetcode.com/u/isaiascastro2014/) <br/>
-  -> [beecrowd](https://judge.beecrowd.com/pt/profile/145283) <br/>
-  -> [nepsacademy](https://neps.academy/br/user/372) <br/>
-  
+-> [leetcode](https://leetcode.com/u/isaiascastro2014/) <br/>
+-> [beecrowd](https://judge.beecrowd.com/pt/profile/145283) <br/>
+-> [nepsacademy](https://neps.academy/br/user/372) <br/>
+
 Além desses participo de contests de programaçao em sites como: <br/>
-  
-  -> [atcoder](https://atcoder.jp/home) <br/>
-  -> [codeforces](https://codeforces.com/) <br/>
+
+-> [atcoder](https://atcoder.jp/home) <br/>
+-> [codeforces](https://codeforces.com/) <br/>
 
 como produto disso tenho um repositório para questões de [programação competitiva](https://github.com/Isaias00C/Programacao-competitiva).
 
 para que em um futuro proximo possa realmente ter uma carreira de desenvolvedor.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaias00C&show_icons=true&theme=radical)
+
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![Linguagens](https://img.shields.io/badge/Linguagens-C%2B%2B%20%7C%20Python-blue)
+![GitHub](https://img.shields.io/github/followers/Isaias00C?label=Seguidores&style=social)
