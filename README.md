@@ -1,6 +1,17 @@
-# Olá, sou Isaías Castro 👋
+<div align="center">
 
-Estudante de **Engenharia da Computação** no **Instituto Federal do Ceará (IFCE)**, com foco em **desenvolvimento back-end com Java e Node.js**, e interesse crescente em **DevOps** (containers, CI/CD e automação).
+```
+██╗███████╗ █████╗ ██╗ █████╗ ███████╗
+██║██╔════╝██╔══██╗██║██╔══██╗██╔════╝
+██║███████╗███████║██║███████║███████╗
+██║╚════██║██╔══██║██║██╔══██║╚════██║
+██║███████║██║  ██║██║██║  ██║███████║
+╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+### Estudante de Engenharia da Computação · Back-end Java & Node.js · DevOps
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+Node.js+Developer;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;Competitive+Programmer;IFCE+Computer+Engineering)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-21%20%7C%2024-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -10,6 +21,14 @@ Estudante de **Engenharia da Computação** no **Instituto Federal do Ceará (IF
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Isaías Castro**, estudante de **Engenharia da Computação** no **Instituto Federal do Ceará (IFCE)**. Foco em **desenvolvimento back-end com Java e Node.js**, com interesse crescente em **DevOps** (containers, CI/CD e automação). 📍 Ceará, Brasil.
 
 ---
 
@@ -33,7 +52,7 @@ Projetos desenvolvidos durante a capacitação Java do **Capacita Brasil / iRede
 | [**Gerenciador-de-Filas-com-Redis**](https://github.com/Isaias00C/Gerenciador-de-Filas-com-Redis) | API com **filas assíncronas** e workers separados (e-mail e chamadas de sistema), validação de payload e rota de health check. | Node.js, Express 5, BullMQ, Redis (ioredis), Zod, ESLint |
 | [**biblioteca-express**](https://github.com/Isaias00C/biblioteca-express) | API REST de biblioteca (livros e usuários) com ORM, migrations versionadas e configuração por variáveis de ambiente. | Node.js, Express 5, Prisma |
 | [**app_ponto_central**](https://github.com/Isaias00C/app_ponto_central) | PWA em produção para controlar o estoque de camisas de um projeto social, com login e regras de acesso no banco. Deploy automático a cada push. | React 19, TypeScript, Vite, Supabase, GitHub Pages |
-| [**Tree-Library**](https://github.com/Isaias00C/Tree-Library) | Sistema de biblioteca sobre uma **árvore AVL** (busca, inserção e remoção em O(log n)). | JavaScript, estruturas de dados |
+| [**Tree-Library**](https://github.com/Isaias00C/Tree-Library) | Sistema de biblioteca sobre uma **árvore AVL** (busca, inserção e remoção em O(log n)). ⭐ 3 | JavaScript, estruturas de dados |
 
 ## 🛠️ DevOps
 
@@ -50,15 +69,32 @@ Venho aplicando práticas de DevOps nos meus próprios projetos:
 
 Pratico lógica e algoritmos em C++ e participo de contests. As soluções ficam em [Programacao-competitiva](https://github.com/Isaias00C/Programacao-competitiva).
 
-[LeetCode](https://leetcode.com/u/isaiascastro2014/) · [Beecrowd](https://judge.beecrowd.com/pt/profile/145283) · [Neps Academy](https://neps.academy/br/user/372) · [AtCoder](https://atcoder.jp/home) · [Codeforces](https://codeforces.com/)
+| Treino | Contests |
+|:---|:---|
+| [LeetCode](https://leetcode.com/u/isaiascastro2014/) · [Beecrowd](https://judge.beecrowd.com/pt/profile/145283) · [Neps Academy](https://neps.academy/br/user/372) | [AtCoder](https://atcoder.jp/home) · [Codeforces](https://codeforces.com/) |
 
 ## 🔬 Outros interesses
 
-Visão computacional e Machine Learning ([MachineLearn](https://github.com/Isaias00C/MachineLearn), [computer-vision](https://github.com/Isaias00C/computer-vision)), sistemas embarcados com ESP32 ([esp32-project](https://github.com/Isaias00C/esp32-project)) e Swift ([taskmind-cli](https://github.com/Isaias00C/taskmind-cli)).
+- **Realidade Virtual:** [Museu-Interativo](https://github.com/Isaias00C/Museu-Interativo), feito em minicurso no Laboratório Huawei do IFCE (Unity). ⭐ 1
+- **Machine Learning e visão computacional:** [MachineLearn](https://github.com/Isaias00C/MachineLearn), [computer-vision](https://github.com/Isaias00C/computer-vision)
+- **Embarcados:** [esp32-project](https://github.com/Isaias00C/esp32-project)
+- **Swift:** [taskmind-cli](https://github.com/Isaias00C/taskmind-cli)
+- **Graduação:** [Graduacao](https://github.com/Isaias00C/Graduacao) (C) e [Projeto-final-ip](https://github.com/Isaias00C/Projeto-final-ip)
 
-## 📊 Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaias00C&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias00C&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub](https://img.shields.io/github/followers/Isaias00C?label=Seguidores&style=social)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaias00C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias00C&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Isaias00C&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+*"Construindo uma base sólida, um algoritmo de cada vez."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Isaias00C.Isaias00C&color=00D9FF)
+
+</div>
